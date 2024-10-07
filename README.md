@@ -7,7 +7,7 @@ result in this course.
 - **Fun fact**: I love working out and play basketball in my free time.
 - **Course expectations**: To gain hands-on experience in
 maintaining and evolving software.
-![My Image](image.jpg) <!-- Link to the uploaded image -->
+![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-stephen30ppp/blob/profile-upload/picture.jpg) <!-- Link to the uploaded image -->
 ## GitHub Profile
 You can view my personalized GitHub profile
 [here](https://github.com/your-github-username).
