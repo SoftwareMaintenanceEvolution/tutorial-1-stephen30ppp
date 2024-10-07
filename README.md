@@ -10,7 +10,7 @@ maintaining and evolving software.
 ![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-stephen30ppp/blob/profile-upload/picture.jpg) <!-- Link to the uploaded image -->
 ## GitHub Profile
 You can view my personalized GitHub profile
-[here](https://github.com/your-github-username).
+[here](https://github.com/stephen30ppp/yanguo/blob/main/README.md).
 
 
 
